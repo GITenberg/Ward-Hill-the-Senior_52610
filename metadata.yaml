@@ -1,0 +1,35 @@
+_repo: Ward-Hill-the-Senior_52610
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tomlinson, Everett T. (Everett Titsworth)
+    alias: Tomlinson, Everett Titsworth
+    birthdate: 1859
+    deathdate: 1931
+    gutenberg_agent_id: '6299'
+    url: http://www.gutenberg.org/2009/agents/6299
+description: ''
+gutenberg_issued: '2016-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52610'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Education -- Juvenile fiction'
+- !lcsh 'Diligence -- Juvenile fiction'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'College sports -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Sports stories'
+- !lcc 'PZ'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'College seniors -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- GITenberg
+title: Ward Hill, the Senior
+url: http://www.gutenberg.org/ebooks/52610
